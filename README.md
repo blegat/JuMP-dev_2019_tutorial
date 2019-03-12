@@ -1,8 +1,8 @@
 # JuMP and MOI Tutorial for JuMP-dev III
 
 See the [Julia and JuMP](https://github.com/juan-pablo-vielma/JuMP-dev-2019-tutorial)
-tutorial for install instructions. This tutorial requires JuMP v0.19
-and MOI v0.8.4.
+tutorial for install instructions. This tutorial requires JuMP v0.19,
+MOI v0.8.4, MosekTools v0.7.1 and SemidefiniteOptInterface v0.6.
 
 The order of the notebooks is as follows:
 
